@@ -1,0 +1,30 @@
+.Box1
+{ 	position: absolute;
+	background-image: url("file:///home/student/Desktop/images.jpeg");
+	background-repeat: no-repeat;
+	background-size: 100% 200vh;
+	padding: 50px;
+}
+.Box2
+{
+		height:20vh;
+}
+.Continer
+{
+	float: left;
+	margin-left:250px;
+}
+#button
+{
+	background-color: red;
+	color: white;
+	border-radius: 50px;
+	width:100px;
+	height: 50px;
+
+}
+.image
+{
+	float:left;
+	margin-left:500px;
+}
